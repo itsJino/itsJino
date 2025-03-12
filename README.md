@@ -1,7 +1,5 @@
 <h2 align="left">Hi 👋! My name is Joshua and I'm a Final Year Computer Science Student in TUD</h2>
 
-<img align="right" height="150" src=""  />
-
 ###
 
 <div align="left">
