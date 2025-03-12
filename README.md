@@ -72,7 +72,7 @@ Slainte is an innovative health information chatbot developed for the Irish Heal
 🔗 [GitHub Repository](https://github.com/itsJino/slainte-llm)
 
 ## 📫 Connect With Me
-[![LinkedIn](https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge)](https://www.linkedin.com/in/your-linkedin-username/)
+[![LinkedIn](https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge)](https://www.linkedin.com/in/joshua-nino-flores/)
 
 ---
 <div align="center">
